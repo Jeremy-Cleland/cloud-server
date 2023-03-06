@@ -12,10 +12,13 @@ Cloud Server W/ AWS
 
 - [GitHub Actions ci/cd](https://github.com/Jeremy-Cleland/cloud-server/actions)
 
+- [GUI DEPLOYMENT](http://cloudserver-env.eba-p9epswmi.us-east-1.elasticbeanstalk.com/)
+
+- [CLI DEPLOYMENT](http://cloudserver-env.eba-p9epswmi.us-east-1.elasticbeanstalk.com/)
+
 ### Setup
 
 #### `.env` requirements (where applicable)
-
 
 #### How to initialize/run your application (where applicable)
 
@@ -26,7 +29,7 @@ Cloud Server W/ AWS
 #### Features / Routes
 
 - Feature One: Details of feature
-- GET : `/` - specific route to hit
+- GET: `/` - specific route to hit
 
 #### Tests
 
@@ -36,4 +39,4 @@ Cloud Server W/ AWS
 
 #### UML
 
-![Lab 2](./assets/lab02.png)
+![Lab 16](./assets/lab02.png)
