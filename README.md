@@ -1,4 +1,4 @@
-# LAB - Class 16
+# LAB - Class 16 AWS: Cloud Server
 
 ## Project: Cloud Server
 
